@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "launch_title_nos.png",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
